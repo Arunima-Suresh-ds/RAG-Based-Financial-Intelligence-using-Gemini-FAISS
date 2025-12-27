@@ -1,0 +1,6 @@
+Python
+Google Gemini
+FAISS
+PyPDF2
+LLM-based
+Jupyter Notebook
